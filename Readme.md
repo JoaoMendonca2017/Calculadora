@@ -1,0 +1,1 @@
+Esse programa foi criado para servir de calaculadora, sendo uma das exercícios iniciais da faculdade.
